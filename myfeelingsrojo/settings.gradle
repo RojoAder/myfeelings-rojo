@@ -1,0 +1,2 @@
+rootProject.name = "myfeelings-rojo"
+include ':app'
